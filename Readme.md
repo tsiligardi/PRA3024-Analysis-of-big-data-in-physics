@@ -7,5 +7,6 @@
     <li>Ex 2: GWDA_Ex_2.ipynb https://github.com/tsiligardi/PRA3024-Analysis-of-big-data-in-physics/blob/main/GWDA_Ex_2.ipynb</li>
     <li>Ex 3: GWDA_Ex_3.ipynb https://github.com/tsiligardi/PRA3024-Analysis-of-big-data-in-physics</li>
   </ol>
+  <li> Week 4: Cartpole: https://github.com/tsiligardi/PRA3024-Analysis-of-big-data-in-physics/blob/main/ML_gym_reinforcement_exercise.ipynb</li>
 </li>
 </ol>
