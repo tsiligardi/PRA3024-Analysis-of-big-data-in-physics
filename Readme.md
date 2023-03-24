@@ -9,4 +9,5 @@
   </ol>
   <li> Week 4: Cartpole: https://github.com/tsiligardi/PRA3024-Analysis-of-big-data-in-physics/blob/main/ML_gym_reinforcement_exercise.ipynb</li>
 </li>
+<li> Week 5 Cosmology: https://github.com/tsiligardi/PRA3024-Analysis-of-big-data-in-physics/blob/main/PRA3024_2223_COSMOLOGY.ipynb </li>
 </ol>
